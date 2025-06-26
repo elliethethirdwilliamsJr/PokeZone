@@ -18,7 +18,7 @@ PokéZone is a web-based interactive Pokémon guessing game built with HTML, CSS
 - [Tailwind CSS](https://tailwindcss.com/)
 - [PokéAPI](https://pokeapi.co/)
 - [JavaScript ES6+](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- Firebase (for auth & data – optional)
+- Firebase (for auth & data – optional, coming soon)
 
 ## 🚀 Getting Started
 
